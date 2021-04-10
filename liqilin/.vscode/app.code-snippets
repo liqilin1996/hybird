@@ -1,0 +1,22 @@
+{
+    "initPage": {
+        "prefix": "initPage",
+        "body": [
+            "import React from 'react';",
+            "import { StyleSheet, View, Text } from 'react-native';",
+            "const Init = () => {",
+              "return (",
+                "<View style={styles.main}>",
+                  "<Text>init</Text>",
+                "</View>",
+              ");",
+            "}",
+            
+            "export default Init;",
+            
+            "const styles = StyleSheet.create({",
+              "main: { flex: 1 },",
+            "});",
+        ]
+    }
+}

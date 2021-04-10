@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2, // 代码缩进修改成2个空格
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": false,
+  }
+}
